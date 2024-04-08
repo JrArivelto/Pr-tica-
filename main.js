@@ -1,0 +1,3 @@
+ function falaAlgo() {
+       alert("HihihiHa!!!")
+ }
